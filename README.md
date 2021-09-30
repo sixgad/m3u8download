@@ -30,5 +30,5 @@
 
 > 视频默认保存在video下，那个大的ts文件就是合并之后的视频，可直接播放（也可使用ffmpeg将视频格式ts转mp4）
 
-todo:版本v2 多线程 or asyncio
-todo:暂未提供ts转mp4的功能
+- [ ] 版本v2 多线程 or asyncio
+- [ ] 暂未提供ts转mp4的功能
